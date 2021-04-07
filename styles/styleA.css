@@ -1,0 +1,15 @@
+a:hover{
+    
+    font-size: x-large;
+    font: bold;
+}
+
+.buttonColor {
+    background-color: rgba(236,253,245,var(--tw-bg-opacity));
+}
+
+a {
+    
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,.10);
+}
